@@ -1,3 +1,5 @@
+Starting off, I fucked up the files when uploading and don't feel like fixing them
+
 # AssaultCubeHack
 A cheat utility for the game [AssaultCube](https://github.com/assaultcube/AC/)
 
